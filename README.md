@@ -1,1 +1,2 @@
-# how-to-set-background-color-for-popupview-in-xamarin-popup
+# SfPopupLayout_XForms_GettingStarted
+This repository contains the sample to get started with the Syncfusion's SfPopupLayout control
